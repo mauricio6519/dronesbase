@@ -1,0 +1,11 @@
+{
+  "name": "com.unetylab.dronesbase",
+  "version": "1.0.0",
+  "displayName": "Unetylab Drones Base",
+  "description": "Base systems for drone and vehicle control (PID, dynamics, sensors).",
+  "unity": "2022.3",
+  "author": {
+    "name": "SMARTNESS2030",
+    "url": "https://github.com/mauricio6519"
+  }
+}
